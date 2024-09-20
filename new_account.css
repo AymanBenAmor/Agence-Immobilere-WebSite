@@ -1,0 +1,200 @@
+.container0{
+    display:flex;
+    flex-direction: row;
+    gap: 122px;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4e4e4e;
+    padding-left: 18.1%;
+    padding-top: 33px;
+    margin-left: -2vw;
+}
+     
+div.border{
+    background-color:#eee2cf;
+    margin-top: -10px;
+    height:90px;
+    width:100vw ;
+    margin-right: 200px;
+    margin-left:-10px;
+   }
+
+
+span{
+    padding-left: 1%;
+    position:absolute;top:-10px;
+   }
+
+body{
+    background-color:#F5F5DC;
+    background-size:cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4e4e4e;
+    font-size: 20px;
+    overflow-x: hidden;
+    scroll-behavior:smooth;
+
+   }
+
+div.footer{
+    background-color:#eee2cf;
+    height:100px;
+    width:100% ;
+    padding-left: 120px;
+    display:grid;
+    grid-template-columns: 31% 31% 31%;
+    grid-template-rows: 50% 50%;
+    margin-bottom: -10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: -10px;
+    margin-top: 750px;
+    margin-top: 500px;
+    padding-top: 0.5%;
+}     
+
+h2,legend{
+    color:#991b38;
+    text-align: center;
+   }
+
+p{
+    margin-left: 20px;
+   }
+
+
+.container10{
+    margin-top: 40px ;
+    margin-left: 205px;
+    height: 300px;
+    width: 1030px;
+    border: solid;
+   }
+
+#section1{
+    margin-top: 08%;
+    margin-left:14%;
+    height: 109vh;
+    width: 65vw;
+    padding:2%;
+    border:none;
+    margin-bottom: 10vh;
+    
+   }
+
+
+
+fieldset{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 6%;
+    height:170vh;
+    margin-top: -10%;
+    gap:8%;
+    color:#991b38;
+   }
+
+.container1{
+    display: flex;
+    flex-direction: row;
+    gap:20%;
+    
+   } 
+
+.ss-container1{
+    display: flex;
+    flex-direction: row;
+    gap:10%;
+    white-space: nowrap;
+    align-items: center;
+    }
+    
+.ss-container1 input{
+    width:18vw;
+    height: 4vh;
+    padding: 2%;
+    border-radius: 10px;
+  }
+    
+
+    
+.ss-container11 input{
+          width:35vw;
+          height: 4vh;
+          padding: 2%;
+          border-radius: 10px;
+          position:relative;
+          left:16.6%;
+          top:40%;
+    }
+
+
+
+
+
+   
+#jour{
+    width:5vw;
+    height: 4vh;
+    padding: 2%;
+    border-radius: 10px; 
+}
+#mois{ width:25vw;
+    height: 4vh;
+    padding: 2%;
+    border-radius: 10px;
+ }
+
+ .ss-container1 input{
+    width:18vw;
+    height: 4vh;
+    padding: 2%;
+    border-radius: 10px;
+}
+
+input.button  {
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    color: #991b38;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    background-color: #eee2cf;
+    margin-left: 180px;
+    cursor: pointer;
+    
+
+   }
+      
+   
+
+   
+
+  
+  
+  
+  
+
+   
+   
+   
+      
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+   
+   
